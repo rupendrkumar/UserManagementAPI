@@ -101,7 +101,7 @@ npm test
 ---
 
 ## 📬 Contact
-For queries, reach out to **[your email]** or open an issue on GitHub.
+For queries, reach out to **rupendrakumar223.com@gmail.com** or open an issue on GitHub.
 
 🚀 **Happy Coding!**
 
